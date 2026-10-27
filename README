@@ -1,6 +1,22 @@
 dwm - dynamic window manager
 ============================
-dwm is an extremely fast, small, and dynamic window manager for X.
+Christopher Wiggins' fork and build of DWM.
+DWM is an extremely fast, small, and dynamic window manager for X.
+
+Patches applied:
+----------------------------
+accessnthmon
+alwaysontopall
+activemonitor
+actualfullscreen
+alternativetags
+alwayscenter
+awesomebar
+betterswallow
+dynamicscratchpads
+functionalgaps + pertag
+namedscratchpads
+sratchtagwins
 
 
 Requirements
